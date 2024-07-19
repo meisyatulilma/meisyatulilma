@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meisyatul Ilma</h1>
 <h3 align="center">Statistics and Data Science | Making Data Work for You</h3>
 
-<p align="left">I am a passionate student with a strong academic background in Statistics and Data Science. Currently pursuing my Master's degree in  Mathematics, Statistics and Data Science at IPB University after completing my Bachelor's degree in Mathematics at Universitas Andalas. My interests lie in data analysis, statistical modeling, and developing data-driven algorithms. I thrive on transforming raw data into actionable insights and enjoy using my skills to solve real-world problems.</p>
+<p align="left">I am a passionate student with a strong academic background in Mathematics, Statistics and Data Science. Currently pursuing my Master's degree in Statistics and Data Science at IPB University after completing my Bachelor's degree in Mathematics at Universitas Andalas. My interests lie in data analysis, statistical modeling, and developing data-driven algorithms. I thrive on transforming raw data into actionable insights and enjoy using my skills to solve real-world problems.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
